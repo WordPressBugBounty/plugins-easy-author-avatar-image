@@ -2,8 +2,8 @@
 Contributors: mukesh27
 Tags: avatar, user profile, gravatar, custom photo, profile
 Donate link: https://www.paypal.com/paypalme/mukeshpanchal27
-Tested up to: 6.8
-Stable tag: 1.4
+Tested up to: 7.0
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,11 +60,14 @@ In addition, if you like the plugin then I'd love for you to leave a review. Tel
 
 == Screenshots ==
 
-1. Settings
-2. Edit Profile Settings
-3. Upload Custom Avatar Image
+1. Upload Custom Avatar Image
 
 == Changelog ==
+
+= 1.5 =
+* Added: Settings link on the Plugins screen
+* Added: uninstall.php to clean up data on uninstall
+* Removed: Onboarding setting page
 
 = 1.4 =
 * Added: Added compatibility for latest WordPress version of 6.8
